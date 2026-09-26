@@ -65,7 +65,7 @@ are not covered by the MIT License
 マウス操作を拡張するさまざまな機能を提供します
 <br><br>
 
-![mainImage](docs/images/mainImage.png)
+![mainImage](docs/images/mainImageJp.png)
 <br><br>
 
 #### 主な機能
